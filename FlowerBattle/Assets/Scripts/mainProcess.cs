@@ -3,7 +3,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-//今日はもう帰りたい
+//今日はもう帰りたいよ
 public class mainProcess : Photon.MonoBehaviour {
 
 	//変数の宣言
